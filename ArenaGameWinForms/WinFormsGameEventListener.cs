@@ -24,10 +24,18 @@ namespace ArenaGameWinForms
             {
                 mainForm.AddItemToListBoxKnight(message);
             }
-            else
+            else if(attacker is Rogue)
             {
                 mainForm.AddItemToListBoxRogue(message);
             }
-        }
+			else if (attacker is Archer)
+			{
+				mainForm.AddItemToListBoxArcher(message);
+			}
+			else if (attacker is Mage)
+			{
+				mainForm.AddItemToListBoxMage(message);
+			}
+		}
     }
 }

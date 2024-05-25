@@ -20,3 +20,15 @@ C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEng
 C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGameEngine\obj\Debug\net8.0\refint\ArenaGameEngine.dll
 C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.pdb
 C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGameEngine\obj\Debug\net8.0\ref\ArenaGameEngine.dll
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\bin\Debug\net8.0\ArenaGameEngine.deps.json
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\bin\Debug\net8.0\ArenaGameEngine.dll
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\bin\Debug\net8.0\ArenaGameEngine.pdb
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.AssemblyInfoInputs.cache
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.AssemblyInfo.cs
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.sourcelink.json
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.dll
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\refint\ArenaGameEngine.dll
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ArenaGameEngine.pdb
+C:\Users\Naiden\Desktop\Desa\Day 6\ArenaGames\ArenaGameEngine\obj\Debug\net8.0\ref\ArenaGameEngine.dll

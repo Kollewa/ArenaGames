@@ -9,11 +9,11 @@ namespace ArenaGameConsole
             string message = $"{attacker.Name} attacked {defender.Name} for {attack} points";
             if (defender.IsAlive)
             {
-                message = message + $" but {defender.Name} survived.";
+                message += $" but {defender.Name} survived.";
             }
             else
             {
-                message = message + $" and {defender.Name} died.";
+                message += $" and {defender.Name} died.";
             }
             Console.WriteLine(message);
         }
@@ -25,8 +25,11 @@ namespace ArenaGameConsole
         {
             Knight knight = new Knight("Sir John");
             Rogue rogue = new Rogue("Slim Shady");
+            Archer archer = new Archer("Ashe");
+            Mage mage = new Mage("Gandalf the black");
+
             
-            Arena arena = new Arena(knight, rogue);
+            Arena arena = new Arena(archer, mage);
             arena.EventListener = new ConsoleGameEventListener();
 
             Console.WriteLine("Battle begins.");

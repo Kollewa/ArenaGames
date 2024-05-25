@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGameEngine\\ArenaGameEngine.csproj": {}
+    "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGames\\ArenaGameEngine\\ArenaGameEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGameEngine\\ArenaGameEngine.csproj": {
+    "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGames\\ArenaGameEngine\\ArenaGameEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGameEngine\\ArenaGameEngine.csproj",
+        "projectUniqueName": "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGames\\ArenaGameEngine\\ArenaGameEngine.csproj",
         "projectName": "ArenaGameEngine",
-        "projectPath": "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGameEngine\\ArenaGameEngine.csproj",
+        "projectPath": "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGames\\ArenaGameEngine\\ArenaGameEngine.csproj",
         "packagesPath": "C:\\Users\\Naiden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGameEngine\\obj\\",
+        "outputPath": "C:\\Users\\Naiden\\Desktop\\Desa\\Day 6\\ArenaGames\\ArenaGameEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

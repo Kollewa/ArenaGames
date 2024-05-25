@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArenaGameConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee9f4c4d04bde94451ab5fa9d996f5c2791ff5b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f72b57b2b4d83739650cfb52aa3c8c27078d80")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArenaGameConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArenaGameConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
